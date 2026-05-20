@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sami%20AlMohaimeed&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sami%20Hamad&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff" />
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Samix2026&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
@@ -9,6 +9,7 @@
 ![MCP](https://img.shields.io/badge/MCP-Workflows-F59E0B?style=for-the-badge)
 
 # Sami Hamad
+AI-powered legal and business infrastructure for Saudi Arabia.
 
 Saudi Legal AI • Business Systems • Investment Infrastructure
 
@@ -24,6 +25,7 @@ Saudi Legal AI • Business Systems • Investment Infrastructure
 - Regulatory & Operational Diagnostics
 - Open Source Infrastructure
 
+Building practical AI systems for legal, regulatory, and operational workflows.
 ## Projects
 
 - [Saudi Legal AI Framework](https://github.com/Samix2026/saudi-legal-ai-framework)
