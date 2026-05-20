@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sami%20Hamad&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff" />
-<p align="left">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Saudi+Business+%26+AI;LegalTech+Infrastructure;Founder+of+Solvyoo;Building+Saudi+Legal+AI)](https://git.io/typing-svg)
   <img src="https://komarev.com/ghpvc/?username=Samix2026&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
