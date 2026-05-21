@@ -1,48 +1,91 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sami%20Hamad&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Sami%20AlMohaimeed&fontAlign=50&fontAlignY=38&color=0:0f172a,100:2563eb&fontColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Saudi+Business+%26+AI;LegalTech+Infrastructure;Founder+of+Solvyoo;Building+Saudi+Legal+AI)](https://git.io/typing-svg)
-  <img src="https://komarev.com/ghpvc/?username=Samix2026&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=AI+Infrastructure+for+Saudi+Legal+%26+Business+Systems;Founder+of+Solvyoo+Advisory;Building+Arabic-First+AI+Workflows;Saudi+Legal+AI+%7C+Agents+%7C+MCP+Systems" />
+  </a>
 </p>
 
-![Saudi Legal AI](https://img.shields.io/badge/Saudi-Legal_AI-0A66C2?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open_Source-Projects-111827?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI-Agents-2563EB?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-Workflows-F59E0B?style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Samix2026&label=Profile%20Views&color=2563eb&style=flat" />
+</p>
 
-# Sami Hamad
-AI-powered legal and business infrastructure for Saudi Arabia.
+<p align="center">
+  <img src="https://img.shields.io/badge/Saudi-Legal_AI-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_Source-Infrastructure-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Agents-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-Workflows-F59E0B?style=for-the-badge" />
+</p>
 
-Saudi Legal AI • Business Systems • Investment Infrastructure
+---
 
-## Building
-- Saudi Legal AI Framework
-- Invest Gate KSA
-- Solvyoo Advisory
+# Sami AlMohaimeed
+
+Building AI-powered legal, regulatory, and business infrastructure for Saudi Arabia.
+
+Focused on:
+- Saudi Legal AI
+- AI Agents & MCP Workflows
+- Regulatory Systems
+- Open Source Infrastructure
+- Operational Diagnostics
+
+---
+
+## Current Projects
+
+### 🇸🇦 Saudi Legal AI Framework
+Arabic-first legal AI infrastructure adapted for the Saudi legal system.
+
+### 🌍 Invest Gate KSA
+Open-source investment infrastructure for foreign investors entering Saudi Arabia.
+
+### 🏢 Solvyoo Advisory
+AI-driven regulatory and operational diagnostics for businesses.
+
+### 🏘 Saudi Real Estate AI
+Structured Saudi real estate workflows, datasets, and AI prompts.
+
+---
 
 ## Focus Areas
-- Saudi LegalTech
-- AI Agents
-- Regulatory Systems
-- Regulatory & Operational Diagnostics
-- Open Source Infrastructure
 
-Building practical AI systems for legal, regulatory, and operational workflows.
-## Projects
+- LegalTech Infrastructure
+- Agentic AI Systems
+- Arabic AI Workflows
+- Automation & Data Systems
+- Regulatory Intelligence
+- AI-assisted Business Operations
 
-- [Saudi Legal AI Framework](https://github.com/Samix2026/saudi-legal-ai-framework)
-- [Invest Gate KSA](https://github.com/Samix2026/invest-gate-ksa)
-- [Saudi Real Estate AI](https://github.com/Samix2026/saudi-real-estate-ai)
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,docker,git,github,vscode,linux" />
+</p>
+
+---
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Samix2026&show_icons=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samix2026&show_icons=true&theme=default&hide_border=true" />
+</p>
 
-![](https://streak-stats.demolab.com?user=Samix2026&theme=default)
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Samix2026&theme=default&hide_border=true" />
+</p>
 
-
-
-## Tech
-Python • AI Agents • MCP • Automation • Data Systems
+---
 
 ## Connect
-X: @SamiBizConsult
+
+- X: [@SamiBizConsult](https://x.com/SamiBizConsult)
+
+
+---
+
+<p align="center">
+  Building practical AI systems for legal, regulatory, and operational workflows.
+</p>
