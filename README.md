@@ -36,7 +36,8 @@ Building practical AI systems for legal, regulatory, and operational workflows.
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Samix2026&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Samix2026)
+
+![](https://streak-stats.demolab.com?user=Samix2026&theme=default)
 
 
 
