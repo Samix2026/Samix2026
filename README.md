@@ -31,6 +31,7 @@ Building practical AI systems for legal, regulatory, and operational workflows.
 
 - [Saudi Legal AI Framework](https://github.com/Samix2026/saudi-legal-ai-framework)
 - [Invest Gate KSA](https://github.com/Samix2026/invest-gate-ksa)
+- [Saudi Real Estate AI](https://github.com/Samix2026/saudi-real-estate-ai)
 
 ## GitHub Stats
 
