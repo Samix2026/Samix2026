@@ -70,19 +70,19 @@ Structured Saudi real estate workflows, datasets, and AI prompts.
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samix2026&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Samix2026&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Samix2026&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Samix2026&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## Connect
 
-- X: [@SamiBizConsult](https://x.com/SamiBizConsult)
-
+<p align="center">
+  <a href="https://x.com/SamiBizConsult">
+    <img src="https://img.shields.io/badge/X-@SamiBizConsult-111827?style=for-the-badge&logo=x" />
+  </a>
+</p>
 
 ---
 
