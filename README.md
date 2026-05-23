@@ -62,7 +62,7 @@ Structured Saudi real estate workflows, datasets, and AI prompts.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,docker,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,ts,html,react,debian,docker,git,github,supabase,linux" />
 </p>
 
 ---
