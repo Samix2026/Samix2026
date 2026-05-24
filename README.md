@@ -81,7 +81,7 @@ Structured Saudi real estate workflows, datasets, and AI prompts.
 
 <p align="center">
   <a href="https://x.com/SamiBizConsult">
-    <img src="https://img.shields.io/badge/X-@SamiBizConsult-111827?style=for-the-badge&logo=x" />
+    <img src="https://img.shields.io/badge/@SamiBizConsult-111827?style=for-the-badge&logo=x" />
   </a>
 </p>
 
