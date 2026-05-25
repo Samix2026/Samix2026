@@ -88,5 +88,5 @@ Structured Saudi real estate workflows, datasets, and AI prompts.
 ---
 
 <p align="center">
-  Building practical AI systems for legal, regulatory, and operational workflows.
+  <strong>Building practical AI systems for legal, regulatory, and operational workflows.</strong>
 </p>
